@@ -14,5 +14,5 @@ Here is the steps:
 Open your git bash or terminal and do these successively:
 -	git clone https://github.com/bluff-king/ASMNeoPolyp20241.git
 -	cd ASMNeoPolyp20241
--	download the Best-model-checkpoint and place it inside code
+-	download the [Best-model-checkpoint](https://drive.google.com/file/d/17_x_oimwTMf5nYlxmNfO3FyOJXV6D4kz/view?usp=sharing) and place it inside code
 -	python3 infer.py --image_path image.jpeg
